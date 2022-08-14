@@ -1,2 +1,2 @@
-# public
-public files
+# share
+files for public sharing
